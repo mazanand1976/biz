@@ -9,3 +9,11 @@ nameserver /* 91.91.91.91 */
 in.nirmala.biz
 in.nisha.biz /* datacenter based on car Nissan Sentra SE 2001 Fully Loaded */
 ind.in.nisha.biz
+#ubuntu@auxillary:~$ bc -l
+#bc 1.07.1
+#Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006, 2008, 2012-2017 Free Software Foundation, Inc.
+#This is free software with ABSOLUTELY NO WARRANTY.
+#For details type `warranty'. 
+#19/91
+#.20879120879120879120
+BC-DOS #NAME OS
