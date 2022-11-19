@@ -19,5 +19,5 @@ ind.in.nisha.biz
 BC-DOS #NAME OS
 SILO-BASIC #NAME INTERPRETER
 POET #Posix -> Po7 -> PoEight
-Window 000BNE # Steps similar to Ubuntu 2022 Version, in N.E. though.
+Window ME 000BNE # Steps similar to Ubuntu 2022 Version, in N.E. though.
 --/proc/nanoware
