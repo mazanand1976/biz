@@ -1,0 +1,50 @@
+Properties
+avd.ini.displayname                                Vanity Berry API 33
+avd.ini.encoding                                        UTF-8
+AvdId                                                              Vanity_Berry_API_33
+disk.dataPartition.size                           4GB
+fastboot.chosenSnapshotFile              iso
+fastboot.forceChosenSnapshotBoot no
+fastboot.forceColdBoot                          no
+fastboot.forceFastBoot                          yes
+hw.accelerometer                                    yes
+hw.arc                                                           false
+hw.audio.input                                           yes
+hw.audio.output                                        yes
+hw.battery                                                   yes
+hw.bluetooth                                              yes
+hw.camera.back                                       virtualscene
+hw.camera.front                                      emulated
+hw.cellular                                                  yes
+hw.cellular.type                                        1G/2G/3G/4G
+hw.cpu.ncore                                            4
+hw.device.hash2                                      MD5:75593303f8ab54195e2a585a7b6a9fde
+hw.device.manufacturer                      HindustanMachineTools
+hw.device.name                                       Vanity Berry
+hw.dPad                                                       yes
+hw.gps                                                          yes
+hw.gpu.enabled                                        yes
+hw.gpu.mode                                             host
+hw.infrared                                                yes
+hw.initialOrientation                              Portrait
+hw.keyboard                                             yes
+hw.lcd.density                                          128
+hw.lcd.height                                            768
+hw.lcd.width                                             1024
+hw.mainKeys                                            yes
+hw.ramSize                                               1024
+hw.screen.ratio                                       4:3
+hw.sdCard                                                 yes
+hw.sensors.orientation                        yes
+hw.sensors.proximity                           yes
+hw.trackBall                                             no
+iso.androidVersion.api                        33
+iso.sysdir.1                                               system-images/android-33/google_apis/x86_64/
+PlayStore.enabled                                 false
+runtime.network.latency                   none
+runtime.network.speed                      full
+showDeviceFrame                                yes
+skin.dynamic                                          yes
+tag.display                                              Google APIs
+tag.id                                                         google_apis
+vm.heapSize                                          64
